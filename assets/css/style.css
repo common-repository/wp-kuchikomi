@@ -1,0 +1,54 @@
+.wp_kuchikomi_display_rating {
+    font-family: FontAwesome !important;
+}
+.wp_kuchikomi_userrating_in_comment {
+}
+.wp_kuchikomi_userrating_in_comment > .wp_kuchikomi_display_rating{
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+}
+.wp_kuchikomi_userrating_in_comment > .wp_kuchikomi_display_comment{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.rate-base {
+    display: inline-block;
+    line-height: 17px !important;
+    font-size: 17px;
+    overflow: hidden;
+    position: relative;
+}
+.rate-base:before {
+    content: "\f005\f005\f005\f005\f005";
+    color: #999;
+}
+.rate-base:after {
+    position: absolute;
+    left: 0;
+    color: #eeba64;
+}
+.rate-0:before { content: "\f005\f005\f005\f005\f005";}
+.rate-05:after { content: "\f089\00a0"; }
+.rate-1:after {  content: "\f005"; }
+.rate-15:after { content: "\f005\f089\00a0"; }
+.rate-2:after {  content: "\f005\f005"; }
+.rate-25:after { content: "\f005\f005\f089\00a0"; }
+.rate-3:after {  content: "\f005\f005\f005"; }
+.rate-35:after { content: "\f005\f005\f005\f089\00a0"; }
+.rate-4:after {  content: "\f005\f005\f005\f005"; }
+.rate-45:after { content: "\f005\f005\f005\f005\f089\00a0"; }
+.rate-5:after {  content: "\f005\f005\f005\f005\f005"; }
+
+.wp_kuchikomi_recent_comment_content {
+    font-size: 16px;
+}
+.wp_kuchikomi_recent_comment_author {
+    float: right;
+}
+
+.recent_review {
+    display: inline-block;
+    width: 100%;
+}

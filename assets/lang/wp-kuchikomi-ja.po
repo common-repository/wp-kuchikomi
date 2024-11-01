@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 口コミ機能Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-02 07:05+0000\n"
+"PO-Revision-Date: 2016-12-02 07:14+0000\n"
+"Last-Translator: wp <ohno@side7.ms>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid "Auhtor rating: "
+msgstr "運営評価: "
+
+msgid "User rating: "
+msgstr "ユーザー平均評価: "
+
+msgid "Kuchikomi"
+msgstr "口コミ機能"
+
+msgid "hide"
+msgstr "表示しない"
+
+msgid "Item"
+msgstr "項目"
+
+msgid "Settings"
+msgstr "基本設定"
+
+msgid "Position"
+msgstr "表示位置"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Total Rating"
+msgstr "総合評価"
+
+msgid "You have already rated."
+msgstr "既に評価済みです"
+
+msgid "Add Review:"
+msgstr "評価を投稿する"
+
+msgid "WordPress Kuchikomi Lite"
+msgstr "口コミ機能プラグインLite"
+
+msgid "Check Multiple Ratings"
+msgstr "復数投稿チェック"
+
+msgid "Top"
+msgstr "記事上部"
+
+msgid "Bottom"
+msgstr "記事下部"
+
+msgid "Kuchikomi Setting Box"
+msgstr "口コミ評価設定"
+
+msgid "Help"
+msgstr "使い方"
+
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+msgid "User reviews"
+msgstr "コメントでユーザー評価の受付"
+
+msgid "Hide rating(use shortcode)"
+msgstr "評価を自動表示しない（ショートコード使用時推奨）"
+
+msgid "Item Setting"
+msgstr "詳細項目設定"
+
+msgid "Unique ID"
+msgstr "ユニークなID(半角英数推奨)"
+
+msgid "Item Name"
+msgstr "項目名"
+
+msgid "default"
+msgstr "デフォルト表示"
+
+msgid "User reviews required"
+msgstr "コメント時に評価を必須にする"
+
+msgid "Display type(when not checked \"hide rating\")"
+msgstr "表示する評価種別(自動表示の場合)"
+
+msgid "Position(when not checked \"hide rating\")"
+msgstr "表示位置(自動表示の場合)"
+
+msgid "Author"
+msgstr "運営評価"
+
+msgid "User"
+msgstr "ユーザー評価"
+
+msgid "WordPress Kuchikomi"
+msgstr "口コミ機能プラグイン"
+
+msgid "Add Item"
+msgstr "評価項目追加"
+
+msgid "viewable"
+msgstr "表示する"
+
+msgid "user rating"
+msgstr "ユーザー平均評価点"
+
+msgid "author rating"
+msgstr "運営評価点"
+
+msgid "Rating required."
+msgstr "評価を入力してください"

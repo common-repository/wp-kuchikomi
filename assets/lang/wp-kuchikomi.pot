@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-02 07:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid "Kuchikomi"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Total Rating"
+msgstr ""
+
+msgid "You have already rated."
+msgstr ""
+
+msgid "Add Review:"
+msgstr ""
+
+msgid "WordPress Kuchikomi Lite"
+msgstr ""
+
+msgid "Check Multiple Ratings"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Kuchikomi Setting Box"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Post Types"
+msgstr ""
+
+msgid "User reviews"
+msgstr ""
+
+msgid "Hide rating(use shortcode)"
+msgstr ""
+
+msgid "Item Setting"
+msgstr ""
+
+msgid "Unique ID"
+msgstr ""
+
+msgid "Item Name"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "User reviews required"
+msgstr ""
+
+msgid "Display type(when not checked \"hide rating\")"
+msgstr ""
+
+msgid "Position(when not checked \"hide rating\")"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "WordPress Kuchikomi"
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "viewable"
+msgstr ""
+
+msgid "user rating"
+msgstr ""
+
+msgid "author rating"
+msgstr ""
+
+msgid "Rating required."
+msgstr ""
+
+msgid "Auhtor rating: "
+msgstr ""
+
+msgid "User rating: "
+msgstr ""
